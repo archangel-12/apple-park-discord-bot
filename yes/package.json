@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "use your name",
-  "license": "ISC",
+  "license": "CC0 1.0",
   "dependencies": {
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
